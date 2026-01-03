@@ -3,6 +3,7 @@
 Discord ticket bot using Component V2
 - I have seen a lot of discord ticket bot in a lot of language, all of them are good. However, I've never seen a discord ticket bot that use the new **Component V2** from Discord, this project is a example of how to use it.
 - In my views, I think this is the first discord ticket bot ever on github that use **COMPONENT V2**. (i'm not sure, hopefully i am right)
+<img width="695" height="407" alt="image" src="https://github.com/user-attachments/assets/2e9774bf-1100-47b7-93c8-ae00a9c732f8" />
 
 # ✅ Features:
 - [x] Component V2 embed
