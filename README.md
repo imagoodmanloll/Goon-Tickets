@@ -1,7 +1,8 @@
 # Gooners Production - Goon Tickets
 
-Discord.JS ticket bot using component v2
+Discord ticket bot using Component V2
 - I have seen a lot of discord ticket bot in a lot of language, all of them are good. However, I've never seen a discord ticket bot that use the new **Component V2** from Discord, this project is a example of how to use it.
+- In my views, I think this is the first discord ticket bot ever on github that use **COMPONENT V2**. (i'm not sure, hopefully i am right)
 
 # ✅ Features:
 - [x] Component V2 embed
